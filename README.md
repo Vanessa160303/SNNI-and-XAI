@@ -1,4 +1,4 @@
-# The combination of secure neural network inference (SNNI) and explainable AI (XAI)
+# The combination of secure neural network inference (SNNI) and explainable AI (XAI) 
 This project shows the code for secure and explainable inference with neural networks. The method of secure neural network inference is multi-party computation and occlusion analysis was used for explainability.
 
 ## Prerequisites
