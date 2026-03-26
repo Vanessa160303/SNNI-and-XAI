@@ -33,7 +33,7 @@ These 4 files contain the tests for the resources, i.e., for the runtime of the 
 - SSIM
 - Bilder-Res
 
-These first five files contain the tests for the qualitative evaluation metrics, i.e., sparsity, robustness, and SSIM. They can be easily started via the terminal (which was also sourced with Conda) in the implementation folder with the command `jupyter notebook`. It should be noted that the code for the presets OSA_AliceNet_Enc_Test2 and OSA_ResNet18_Dec_Test2 should be executed first, as this is where the noisy images for testing robustness are created. The Bilder-Res folder also contains the images that were used for the ResNet18 tests. If you want to use these, unzip the individual images into the Implementation folder.
+These first five files contain the tests for the qualitative evaluation metrics, i.e., sparsity, robustness, and SSIM. They can be easily started via the terminal (which was also sourced with Conda) in the Implementation folder with the command `jupyter notebook`. It should be noted that the code for the presets OSA_AliceNet_Enc_Test2 and OSA_ResNet18_Dec_Test2 should be executed first, as this is where the noisy images for testing robustness are created. The Bilder-Res folder also contains the images that were used for the ResNet18 tests. If you want to use these, unzip the individual images into the Implementation folder.
 
 - 2-Computer-Setup
 
