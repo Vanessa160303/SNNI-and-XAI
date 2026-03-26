@@ -20,7 +20,7 @@
 - Runtime-Test: Folder containing the runtime tests in Alice-Net's two-computer setup (the files have the same names as listed here)
 
 ## Usage
-All files in Implementierung must be available on both computers. The computer that is to load the model should be executed as rank 0. Its address is also used as the master address. The other computer provides the data. If you are working with Alice-Net, you must first execute 
+All files in Implementation must be available on both computers. The computer that is to load the model should be executed as rank 0. Its address is also used as the master address. The other computer provides the data. If you are working with Alice-Net, you must first execute 
 `python mnist_utils.py --option train_v_test` in the terminal of the data owner. Now start the terminal (sourced in Conda) on both computers. For the model owner, execute the code with
 `export GLOO_LOG_LEVEL=DEBUG 
 export NCCL_DEBUG=INFO
