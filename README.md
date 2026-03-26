@@ -1,9 +1,9 @@
-# SNNI-and-XAI
+# The combination of secure neural network inference (SNNI) and explainable AI (XAI)
 This project shows the code for secure and explainable inference with neural networks. The method of secure neural network inference is multi-party computation and occlusion analysis was used for explainability.
 
 ## Prerequisites
 CrypTen must first be installed according to the installation instructions (in a Conda environment).
-The installation instructions can be found here: [Github of CrypTen](https://github.com/facebookresearch/CrypTen). The Python version used for the bachelor thesis is 3.12. In addition, Linux was used as the operating system. 
+The installation instructions can be found here: [Github of CrypTen](https://github.com/facebookresearch/CrypTen). The Python version used for the code is 3.12. In addition, Linux was used as the operating system. 
 
 Furthermore, the code was tested directly within the CrypTen folder structure. To do this, the folder Implementation was integrated into the CrypTen directory. The Implementation folder should be put in the parent folder, where the tutorials, benchmark, etc. folders are also located.
 
