@@ -1,4 +1,9 @@
 # The combination of secure neural network inference (SNNI) and explainable AI (XAI) 
+> **Secure and explainable inference with neural networks (accepted):** Vanessa Marianne Fiedler and Zoltán Ádám Mann  
+> *To be presented at the Annual Privacy Forum, 2026*
+>
+> This code accompanies the accepted publication.
+
 This project shows the code for secure and explainable inference with neural networks. The method of secure neural network inference is multi-party computation and occlusion analysis was used for explainability.
 
 ## Prerequisites
